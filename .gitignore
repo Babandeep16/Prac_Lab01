@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore Parquet files
+*.parquet
+
+# Ignore Jupyter Notebook temporary files
+*.ipynb_checkpoints
